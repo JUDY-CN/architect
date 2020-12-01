@@ -12,7 +12,7 @@
 泛化关系 (Generalization) | 相当于程序里面的继承关系 | 用箭头表示
 
 ## 用例图例子
-![User Case Diagram](UserCaseDiagram.png)
+![Teamcoin用例图](Teamcoin用例图.png)
 
 ## 理解误区
 + 误区1：用例就是功能点

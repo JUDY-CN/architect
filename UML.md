@@ -4,4 +4,4 @@
 + [活动图 (Activity Diagram)](uml/ActivityDiagram.md)
 + [状态图 (Statechart Diagram)](uml/StatechartDiagram.md)
 + [时序图 (Sequence Diagram)](uml/SequenceDiagram.md)
-
++ [组件图 (Component Diagram)](uml/ComponentDiagram.md)

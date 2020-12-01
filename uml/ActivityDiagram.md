@@ -15,6 +15,6 @@
 
 ## 活动图例子
 ### 1、创建团队
-![Activity Diagram](ActivityDiagram.png)
+![创建团队活动图](创建团队活动图.png)
 ### 2、产研流程
-![Activity Diagram](ActivityDiagram2.png)
+![产研流程图](产研流程图.png)

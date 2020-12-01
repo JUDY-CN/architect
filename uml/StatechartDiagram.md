@@ -13,6 +13,6 @@
 | 初态 (Start)                 | 初始状态                                                     | 用实心圆点表示             |
 | 终态  (End)                  | 结束状态                                                     | 用圆形内嵌圆点表示         |
 
-## 活动图例子
+## 状态图例子
 
-![Statechart Diagram](StatechartDiagram.png)
+![BUG修复状态图](BUG修复状态图.png)

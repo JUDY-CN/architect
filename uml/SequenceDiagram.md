@@ -29,4 +29,4 @@
 
 ## 时序图例子
 
-![Sequence Diagram](SequenceDiagram.png)
+![创建项目时序图](创建项目时序图.png)

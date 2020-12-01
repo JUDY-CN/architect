@@ -20,4 +20,4 @@
 
 ## 组件图例子
 
-![Component Diagram](ComponentDiagram.png)
+![项目组件图](项目组件图.png)
