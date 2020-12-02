@@ -1,4 +1,14 @@
-# Scrum案例分析
+# DDD案例分析
+## 项目介绍
+
+Teamcoin Introduce
+
+## 分包结构
+
+![分包结构](分包结构.png)
+
+## Scrum术语
+
 + 产品（Product）
 + 产品待办项（Backlog Item）
 + 发布（Release）

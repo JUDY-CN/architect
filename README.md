@@ -2,7 +2,7 @@
 Study notes and some thoughts on architecture design.
 
 ## 目录
-+ [领域驱动设计 Domain Driven Design](DDD.md)
-+ [学会画各种UML图](UML.md)
-+ [Scrum DDD案例分析](scrum-case.md)
-
++ [DDD精粹](ddd/DDD精粹.md)
++ [学会画各种UML图](uml/UML.md)
++ [Teamcoin案例分析](teamcoin/Teamcoin案例分析.md)
++ [常用术语汇编](常用术语汇编.md)
